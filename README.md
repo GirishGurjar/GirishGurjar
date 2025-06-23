@@ -9,7 +9,7 @@
 ### 🌱 Currently Learning
 
 - Full Stack Development with the **MERN Stack**
-- Enhancing skills in **Angular**, **SCSS**, and **TypeScript**
+- Enhancing skills in **React**, **SCSS**, **JavaScript**, **Typescript**, **SQL**
 
 ---
 
@@ -44,15 +44,26 @@
 ### 📫 Connect With Me
 
 - 📧 Email: [gurjargirish08@gmail.com](mailto:gurjargirish08@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/girishgurjar)
+- 🔗 [LinkedIn] [(https://www.linkedin.com/in/girishgurjar)]
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
+ 
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GirishGurjar&show_icons=true&theme=react" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GirishGurjar&theme=react" width="48%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=GirishGurjar&theme=react" width="48%" /> -->
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GirishGurjar&layout=compact&theme=react" width="48%" />
+</p>
+
+
+
 </p>
 
 ---
